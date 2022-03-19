@@ -1,6 +1,5 @@
 # Shamsudin Shamsudinov
 
-**********
 ## Contacts
 + __Pnohe:__ +7(952) 085-17-63
 + __Telegram:__ [Shams0569](https://t.me/Shams0569)
