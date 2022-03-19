@@ -3,15 +3,12 @@
 **********
 ## Contacts
 + __Pnohe:__ +7(952) 085-17-63
-+ __E-mail:__  [shamsudinov93@bk.ru](mailto:shamsudinov93@bk.ru)
 + __Telegram:__ [Shams0569](https://t.me/Shams0569)
-+ __vk:__ [Страница вконтакте](https://vk.com/shamsudin0v)
++ __E-mail:__  [shamsudinov93@bk.ru](mailto:shamsudinov93@bk.ru)
++ __Discord:__ Shams(@Shamsudinov)
 
-**********
 ## About me
 I'm 28 yers old.  I love coding process, and my main goal is to become a first-class specialist and now I'm in search of new knowledge that will help me to become the best in my job. I have a dream - to travel the whole world, I believe that the profession of a front-end developer will help me with this and that's why I started learning front-end technologies. I'm very sociable and friendly and I will be glad to meet new people to achieve common goals together.
-
-
 
 ## Skills
 + HTML,CSS
